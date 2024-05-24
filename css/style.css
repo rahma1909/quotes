@@ -1,0 +1,19 @@
+h1{
+font-size: 80px;
+font-weight:700;
+font-family: "Danfo", serif;
+background-image: linear-gradient(to right, #3c84a5, #114d7e);
+background-clip: text;
+-webkit-text-fill-color: transparent;
+
+}
+p{
+    font-size: 35px;
+    font-weight:400  
+}
+.container-fluid{
+    background-image: url(../1.jfif);
+    background-position: center;
+    background-size: cover;
+    height:100vh
+}
